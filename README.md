@@ -1,2 +1,1 @@
-# master-course-materials
-Course materials for Fall 2025 - IST707 Applied Machine Learning
+This repository contains worked examples from class.  It will be updated on a regular basis.
